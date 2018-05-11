@@ -1,0 +1,62 @@
+body{
+    background-color: re;
+}
+
+
+
+header{ display: flex;
+
+} 
+
+
+.background{
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    height: 2000px;
+    background-size: cover;
+    filter: brightness(15%)
+} 
+
+
+nav{
+    width: 85%;
+    display: flex;
+    justify-content: flex-end;
+} 
+
+ul{
+    display: flex;
+    list-style: none;
+} 
+
+li a{
+    padding-left: 30px;
+    text-decoration: none;
+    color: #c4c4c5
+} 
+
+.icon{
+    font-family: fontAwesome; 
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    color: #c4c4c5;
+    
+}  
+
+p .blue{
+    color: #61c6ea;
+} 
+
+
+
+
+/* .zindex1{
+    position: relative;
+    z-index: 1;
+}  
+
+.zindex2{
+    position: relative;
+    z-index: 2;
+}   */
